@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="Resultado compartido de la práctica de Git">
+  <title>Git en común · Irun</title>
+  <link rel="stylesheet" href="assets/styles.css">
+</head>
+<body>
+  <main>
+    <header class="hero">
+      <p class="eyebrow">Ayuntamiento de Irun · Informática</p>
+      <h1>Git en común</h1>
+      <p class="intro">El resultado que estamos construyendo entre todo el grupo.</p>
+      <div class="status">
+        <span>Estado de la sesión</span>
+        <strong id="estado">Preparado</strong>
+      </div>
+    </header>
+
+    <section class="lema" aria-labelledby="titulo-lema">
+      <p id="titulo-lema">Nuestro lema</p>
+      <blockquote id="lema"></blockquote>
+    </section>
+
+    <section class="equipo" aria-labelledby="titulo-equipo">
+      <div class="section-title">
+        <div>
+          <p class="eyebrow">Repositorio compartido</p>
+          <h2 id="titulo-equipo">El equipo</h2>
+        </div>
+        <p><strong id="completados">0</strong> perfiles completados</p>
+      </div>
+      <div class="people" id="people"></div>
+    </section>
+  </main>
+
+  <footer>Curso de introducción a Git</footer>
+
+  <script src="data/estado.js"></script>
+  <script src="data/lema.js"></script>
+  <script src="data/participantes.js"></script>
+  <script src="assets/app.js"></script>
+</body>
+</html>
