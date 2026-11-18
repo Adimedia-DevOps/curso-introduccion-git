@@ -4,7 +4,7 @@
  * Sustituye nombre, aficion e iniciales con tus datos.
  */
 window.PARTICIPANTES = [
-  { id: 1, nombre: "Plaza 01", aficion: "Pendiente", iniciales: "01", color: "coral" },
+  { id: 1, nombre: "JaviJavi", aficion: "La POO", iniciales: "J", color: "green" },
   { id: 2, nombre: "Plaza 02", aficion: "Pendiente", iniciales: "02", color: "blue" },
   { id: 3, nombre: "Plaza 03", aficion: "Pendiente", iniciales: "03", color: "yellow" },
   { id: 4, nombre: "Plaza 04", aficion: "Pendiente", iniciales: "04", color: "green" },
