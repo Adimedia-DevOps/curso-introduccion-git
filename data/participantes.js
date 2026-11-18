@@ -6,7 +6,7 @@
 window.PARTICIPANTES = [
   { id: 1, nombre: "JaviJavi", aficion: "La POO", iniciales: "J", color: "green" },
   { id: 2, nombre: "GEMA", aficion: "MACRAMÉ", iniciales: "GG", color: "coral" },
-  { id: 3, nombre: "Plaza 03", aficion: "Pendiente", iniciales: "03", color: "yellow" },
+  { id: 3, nombre: "Juanjo", aficion: "Deporte", iniciales: "JP", color: "blue" },
   { id: 4, nombre: "Plaza 04", aficion: "Pendiente", iniciales: "04", color: "green" },
   { id: 5, nombre: "Plaza 05", aficion: "Pendiente", iniciales: "05", color: "purple" },
   { id: 6, nombre: "Plaza 06", aficion: "Pendiente", iniciales: "06", color: "coral" },
